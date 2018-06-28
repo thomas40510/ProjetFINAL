@@ -1,4 +1,4 @@
 # Heartstone
-## Ce projet à commencé son développement le Lundi 18 Juin 2018
+## Ce projet a commencÃ© son dÃ©veloppement le Lundi 18 Juin 2018
 
-## Il a été développé par Pablo BONDIA-LUTTIAU, Paul BLANLOEIL, Théo EDOM, et Gildas LE MOGUEDEC
+## Il a Ã©tÃ© dÃ©veloppÃ© par Pablo BONDIA-LUTTIAU, Paul BLANLOEIL, ThÃ©o EDOM, et Gildas LE MOGUEDEC
